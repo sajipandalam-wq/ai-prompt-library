@@ -2,7 +2,7 @@
 
 Copy-paste prompts I use for **SS Creative Studio** content: AI images, posters and short videos.
 
-Tools I use them with: **Google Gemini (Nano Banana Pro)**, **ChatGPT**, **Midjourney**, **Leonardo AI**, **Kling 3.0**, **Google Flow** and **Grok Video**.
+Tools I use them with: **Google Gemini (Nano Banana Pro)**, **ChatGPT**, **Midjourney**, **Leonardo AI**, **Kling 3.0**, **Google Flow**, **Higgsfield** and **Grok Video**.
 
 > Most of my followers use free AI tools, so every prompt here works on a free plan unless it says otherwise.
 
@@ -10,6 +10,7 @@ Tools I use them with: **Google Gemini (Nano Banana Pro)**, **ChatGPT**, **Midjo
 
 | Folder | What's inside |
 |---|---|
+| [facebook-posts/](facebook-posts/) | ⭐ **The exact prompts from my Facebook posts** |
 | [techniques/](techniques/) | Methods behind the prompts, such as face-lock |
 | [portraits/](portraits/) | Face-consistent portraits: studio, neon, watercolour |
 | [posters/](posters/) | Motivational and devotional poster prompts |
