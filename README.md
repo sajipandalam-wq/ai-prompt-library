@@ -16,6 +16,7 @@ Tools I use them with: **Google Gemini (Nano Banana Pro)**, **ChatGPT**, **Midjo
 | [posters/](posters/) | Motivational and devotional poster prompts |
 | [characters/](characters/) | 3D and cartoon character prompts |
 | [video/](video/) | Camera-move prompts for Kling and Google Flow |
+| [video-editing/](video-editing/) | My `rules.md` for editing reels with Claude |
 
 ## How to use
 
