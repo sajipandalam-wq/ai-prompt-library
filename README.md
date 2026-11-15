@@ -16,7 +16,6 @@ Tools I use them with: **Google Gemini (Nano Banana Pro)**, **ChatGPT**, **Midjo
 | [posters/](posters/) | Motivational and devotional poster prompts |
 | [characters/](characters/) | 3D and cartoon character prompts |
 | [video/](video/) | Camera-move prompts for Kling and Google Flow |
-| [video-editing/](video-editing/) | My `rules.md` for editing reels with Claude |
 
 ## How to use
 
@@ -26,7 +25,7 @@ Tools I use them with: **Google Gemini (Nano Banana Pro)**, **ChatGPT**, **Midjo
 
 ## Follow
 
-Facebook: [SS Creative Studio](https://www.facebook.com/sscreativestudio.dxb) · Instagram: [@sajipandalam](https://instagram.com/sajipandalam) · YouTube: [@sajipdm](https://youtube.com/@sajipdm)
+Facebook: [SS Creative Studio](https://www.facebook.com/sscreativestudio.dxb) · Instagram: [@sajipandalam](https://instagram.com/sajipandalam) · TikTok: [@sajipdmdxb](https://www.tiktok.com/@sajipdmdxb) · YouTube (devotional): [@sajipdm](https://youtube.com/@sajipdm)
 
 `#SSCreativeStudio` `#AIArtAnointing` `#NanoBananaPro`
 
